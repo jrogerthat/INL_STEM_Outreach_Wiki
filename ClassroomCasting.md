@@ -8,9 +8,11 @@
 <img src="figures/click_on_casting.png" alt="Alt Text" width="400" height="auto">
 <!-- ![click_on_casting_icon](figures/click_on_casting.png){ width: 500px; height: auto;} -->
 5. (If you haven't already) Pair headset to app.
+
 <img src="figures/add_device_popup.png" alt="Alt Text" width="400" height="auto">
 <!-- ![click_on_casting_icon](figures/add_device_popup.png){ width: 500px; height: auto;} -->
 6. Click on cast!
+
 <img src="figures/paired_headset_popup.png" alt="Alt Text" width="400" height="auto">
 <!-- ![click_on_casting_icon](figures/paired_headset_popup.png){ width: 500px; height: auto;} -->
 
