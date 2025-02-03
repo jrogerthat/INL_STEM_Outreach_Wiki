@@ -6,10 +6,8 @@
 3. Confirm that your headset and the device that you're casting to are on the same Wi-Fi network.
 4. Click on casting.
 <img src="figures/click_on_casting.png" alt="Alt Text" width="300" height="auto">
-
 5. (If you haven't already) Pair headset to app. 
 <img src="figures/add_device_popup.png" alt="Alt Text" width="300" height="auto">
-
 6. Click on cast!
 <img src="figures/paired_headset_popup.png" alt="Alt Text" width="300" height="auto">
 
